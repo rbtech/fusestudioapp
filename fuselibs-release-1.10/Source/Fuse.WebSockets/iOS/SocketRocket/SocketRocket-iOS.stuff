@@ -1,0 +1,3 @@
+if iOS {
+  lib: "https://files.fusetools.com/tooling/W4ITHfzp9cvy-SocketRocket.zip"
+}

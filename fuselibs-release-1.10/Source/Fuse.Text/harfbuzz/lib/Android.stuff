@@ -1,0 +1,3 @@
+if ANDROID {
+/* 0.21MB */ Android: "https://files.fusetools.com/tooling/pNKuE33KolYV-Harfbuzz-Android.zip"
+}

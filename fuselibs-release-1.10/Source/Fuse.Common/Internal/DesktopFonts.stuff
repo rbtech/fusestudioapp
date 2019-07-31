@@ -1,0 +1,3 @@
+if !Android && !iOS {
+/* 22.41MB */ DesktopFonts: "https://files.fusetools.com/tooling/xuTuMXgNyKMr-DesktopFonts.zip"
+}

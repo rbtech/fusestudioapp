@@ -1,0 +1,11 @@
+{
+  "Copyright": "Copyright (c) Fuse Open 2018",
+  "Description": "Experimental.TextureLoader",
+  "Publisher": "Fuse",
+  "Includes": [
+    "TextureLoader.uno:Source",
+    "TextureLoaderImpl.uno:Source",
+    "CIL/CilTextureLoader.uno:Source",
+    "CIL/Uno/BufferAccessor.uno:Source"
+  ]
+}

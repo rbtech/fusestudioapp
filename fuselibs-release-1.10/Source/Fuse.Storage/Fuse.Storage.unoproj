@@ -1,0 +1,19 @@
+{
+  "Copyright": "Copyright (c) Fuse Open 2018",
+  "Description": "Native Storage",
+  "Publisher": "Fuse Open",
+  "Package": {
+    "ProjectUrl": "https://fuseopen.com"
+  },
+  "Packages": [
+    "Uno.Threading",
+  ],
+  "Projects": [
+    "../Fuse.Common/Fuse.Common.unoproj",
+    "../Fuse.Scripting/Fuse.Scripting.unoproj"
+  ],
+  "Includes": [
+    "ApplicationDir.uno:Source",
+    "StorageModule.uno:Source"
+  ]
+}

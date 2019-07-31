@@ -1,0 +1,23 @@
+{
+  "Copyright": "Copyright (c) Fuse Open 2018",
+  "Publisher": "Fuse Open",
+  "Package": {
+    "ProjectUrl": "https://fuseopen.com"
+  },
+  "Packages": [
+    "Fuse",
+    "FuseJS"
+  ],
+  "Projects": [
+    "../Fuse.Charting/Fuse.Charting.unoproj"
+  ],
+  "Includes": [
+    "Components/**.ux",
+    "Docs/**.uno",
+    "Docs/**.md:File",
+    "Theme/**.ux",
+    "Icons/aliveicons.ttf",
+    "Icons/*.ux",
+    "UXFunctions/**.uno:Source"
+  ]
+}
